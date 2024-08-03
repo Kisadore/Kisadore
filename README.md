@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF6E96&lines=Hi+There!+👋🏾;+My+name+is+Kiahna+Isadore!;" />
 </h1>
 
-<h3 align="center">An aspiring software engineer</h3>
+<h3 align="center">Aspiring software engineer</h3>
 
 <br/>
 
