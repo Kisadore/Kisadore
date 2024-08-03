@@ -26,8 +26,10 @@
 
 💬 Ask me about **Node.js, React, express... or anything [here](https://github.com/Kisadore/Kisadore/issues)**
 
-⚡ Fun fact **I'm a movie/tv show enthusiast who loves card games, I also occasionally make spontaneous decisions—like booking a flight on a whim or starting a new project at 3 AM!**
 
+<!--
+⚡ Fun fact **I'm a movie/tv show enthusiast who loves card games, I also occasionally make spontaneous decisions—like booking a flight on a whim or starting a new project at 3 AM!**
+-->
 
  </div>
 
@@ -74,6 +76,19 @@ TWO LINES
 </p>
   <!--
   -->
+
+## 🎧 Spotify Playing
+
+<div align="center" >
+
+[![Ｕｋｉｙｏ☁️](https://img.shields.io/badge/Ｕｋｉｙｏ☁️-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/661CswM5DtkAyRGMRZI2dz)
+[![...](https://img.shields.io/badge/...-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3KB9Rcrjct0VpGSLvYgsx1)
+[![Euphoria](https://img.shields.io/badge/Euphoria-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q)
+[![Alt Music](https://img.shields.io/badge/Alt%20Music-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5rjAcasRoJ4pFZLb2YqQ0R)
+[![I ｎ ｍｙｆｅｅｌｉｎｇｓ 🙄](https://img.shields.io/badge/I%20ｎ%20ｍｙｆｅｅｌｉｎｇｓ%20🙄-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68dpEnHX39PWH89rOI6bLg)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
+</div>
   <!--
   <br/>
 
