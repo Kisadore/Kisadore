@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF6E96&lines=Hi+There!+👋🏾;+My+name+is+Kiahna+Isadore!;" />
 </h1>
 
-<h3 align="center">Aspiring software engineer</h3>
+<h3 align="center">Aspiring software engineer here :)</h3>
 
 <br/>
 
@@ -86,11 +86,11 @@ TWO LINES
 [![Euphoria](https://img.shields.io/badge/Euphoria-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q)
 [![Alt Music](https://img.shields.io/badge/Alt%20Music-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5rjAcasRoJ4pFZLb2YqQ0R)
 [![I ｎ ｍｙｆｅｅｌｉｎｇｓ 🙄](https://img.shields.io/badge/I%20ｎ%20ｍｙｆｅｅｌｉｎｇｓ%20🙄-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68dpEnHX39PWH89rOI6bLg)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
 <!--
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
 -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
+
 </div>
   <!--
   <br/>
