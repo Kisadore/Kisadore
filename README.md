@@ -88,8 +88,14 @@ TWO LINES
 [![I ｎ ｍｙｆｅｅｌｉｎｇｓ 🙄](https://img.shields.io/badge/I%20ｎ%20ｍｙｆｅｅｌｉｎｇｓ%20🙄-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68dpEnHX39PWH89rOI6bLg)
 <!--
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
--->
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
+-->
+<a href="https://open.spotify.com/user/kiahnaisadore" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false" width="500" height="auto" alt="Spotify Profile Widget">
+</a>
+
 
 </div>
   <!--
