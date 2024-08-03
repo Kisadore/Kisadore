@@ -24,7 +24,7 @@
   -->
  🌱 I’m currently learning more about full stack web develpment through the Codepath x Salesfore Futureforce Tech Launchpad Program
 
-💬 Ask me about **Node.js, React, express... or anything **
+💬 Ask me about **Node.js, React, express... or anything**
 <!--
 [here](https://github.com/Kisadore/Kisadore/issues)
 -->
