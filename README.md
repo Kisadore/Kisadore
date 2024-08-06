@@ -7,9 +7,7 @@
 </h1>
 
 <h3 align="center">Aspiring software engineer here :)</h3>
-
 <br/>
-
 <div align="center">
  
  🔭 I’m currently working on a fullstack web application that allows users to view current elections in their area down to the local level, with additional features all with PERN stack (PostgreSQL, Express, React, Node.js) 
