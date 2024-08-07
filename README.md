@@ -79,10 +79,11 @@ jwt,nodemon,render,trello
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisadore&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" style="height: 200px; width: auto;" />
-  <img src="https://streak-stats.demolab.com?user=Kisadore&count_private=true&theme=dracula&border_radius=10" alt="streak stats" style="height: 200px; width: auto; margin-left: 20px; margin-right: 20px;" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisadore&layout=compact&theme=dracula&border_radius=10" alt="top languages" style="height: 200px; width: auto;" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kisadore&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" style="height: 150px; width: auto;" />
+  <img src="https://streak-stats.demolab.com?user=Kisadore&count_private=true&theme=dracula&border_radius=10" alt="streak stats" style="height: 150px; width: auto; margin-left: 20px;" />
 </p>
+
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisadore&layout=compact&theme=dracula&border_radius=10" alt="top languages" style="height: 200px; width: auto;" /> -->
 
   <!--
   -->
