@@ -41,9 +41,10 @@
   <a href="https://www.linkedin.com/in/kiahna-isadore/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <!--
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+<!--      <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     
+     <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 '<!--
@@ -54,11 +55,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,nodejs,github,figma,git,swift" />
-    <img src="https://skillicons.dev/icons?i=vscode,python,javascript,express,c,java,postgres,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,nodejs,github,figma,git,swift,figma,npm,regex" />
+    <img src="https://skillicons.dev/icons?i=vscode,python,javascript,express,c,java,postgres,androidstudio,prisma,postman,linux" /><br>
 </div>
 <!--
 TWO LINES
+jwt,nodemon,render,trello
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,mui,html,css,nodejs,github,figma,git,swift" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,python,javascript,express,c,java,postgres,androidstudio" />
@@ -71,10 +73,17 @@ TWO LINES
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kisadore&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" style="height: 200px; width: auto;" />
   <img src="https://streak-stats.demolab.com?user=Kisadore&count_private=true&theme=dracula&border_radius=10" alt="streak stats" style="height: 200px; width: auto; margin-right: 20px;" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kisadore&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" style="height: 200px; width: auto;" />
+  <img src="https://streak-stats.demolab.com?user=Kisadore&count_private=true&theme=dracula&border_radius=10" alt="streak stats" style="height: 200px; width: auto; margin-left: 20px; margin-right: 20px;" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisadore&layout=compact&theme=dracula&border_radius=10" alt="top languages" style="height: 200px; width: auto;" /> -->
 </p>
+
   <!--
   -->
 
