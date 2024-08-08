@@ -104,7 +104,7 @@ jwt,nodemon,render,trello
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
 -->
 <a href="https://open.spotify.com/user/kiahnaisadore" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false" width="500" height="auto" alt="Spotify Profile Widget">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false" width="425" height="auto" alt="Spotify Profile Widget">
 </a>
 
 
