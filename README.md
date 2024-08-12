@@ -100,7 +100,6 @@ jwt,nodemon,render,trello
 <!--
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
 
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
 -->
 <a href="https://open.spotify.com/user/kiahnaisadore" target="_blank">
