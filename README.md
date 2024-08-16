@@ -20,6 +20,8 @@
 **• Create accounts to participate in community discussions**  
 **• Access a chatbot for additional questions**
   -->
+<!-- I ned to clean up this code -->
+  
  🌱 I’m currently learning more about full stack web develpment through the Codepath x Salesfore Futureforce Tech Launchpad Program
 
 💬 Ask me about **Node.js, React, express... or anything**
