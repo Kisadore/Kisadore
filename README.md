@@ -1,40 +1,32 @@
 <!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kisadore.kisadore&format=true" />
-## Hi there 👋
-i just need to make a random commit
-...
-random commit
--->
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF6E96&lines=Hi+There!+👋🏾;+My+name+is+Kiahna+Isadore!;" />
 </h1>
+## Hi, My name is Kiahna Isadore
+-->
 
-<h3 align="center">Aspiring software engineer here :)</h3>
+
+<h3 align="center">👋🏾 Hi, Aspiring software engineer here :)</h3>
 <br/>
 <div align="center">
+<!--
  
- 🔭 I’m currently working on a fullstack web application that allows users to view current elections in their area down to the local level, with additional features all with PERN stack (PostgreSQL, Express, React, Node.js) 
- 
-<!-- 
- 🔭 Current Project: I'm developing a full-stack web application using the PERN stack (PostgreSQL, Express, React, Node.js) that enables users to:
-  
-**• View current elections in their area, down to the local level**  
-**• View representatives by state**  
-**• Create accounts to participate in community discussions**  
-**• Access a chatbot for additional questions**
-  -->
-
-  
- 🌱 I’m currently learning more about full stack web develpment through the Codepath x Salesfore Futureforce Tech Launchpad Program
+ -->
 
 💬 Ask me about **Node.js, React, express... or anything**
 <!--
 [here](https://github.com/Kisadore/Kisadore/issues)
 -->
 
+💻 I recently developed a fullstack web application that allows users to view current elections in their area down to the local level, with additional features all with PERN stack (PostgreSQL, Express, React, Node.js) 
 
+  
+🌟 This past summer, I got to learn more about full stack web develpment through the Codepath x Salesfore Futureforce Tech Launchpad Program
+
+🤭 **Fun fact** I'm a TV show enthusiast who loves card games, also I'm very open minded and love to try out new things!
 <!--
-⚡ Fun fact **I'm a movie/tv show enthusiast who loves card games, I also occasionally make spontaneous decisions—like booking a flight on a whim or starting a new project at 3 AM!**
 -->
 
  </div>
@@ -63,14 +55,7 @@ random commit
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,nodejs,github,figma,git,swift,figma,npm,regex" />
     <img src="https://skillicons.dev/icons?i=vscode,python,javascript,express,c,java,postgres,androidstudio,prisma,postman,linux" /><br>
 </div>
-<!--
-TWO LINES
-jwt,nodemon,render,trello
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,mui,html,css,nodejs,github,figma,git,swift" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,express,c,java,postgres,androidstudio" />
-</div>
--->
+
 <br/>
 <!--
 <hr/>
@@ -78,20 +63,13 @@ jwt,nodemon,render,trello
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisadore&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" style="height: 200px; width: auto;" />
-  <img src="https://streak-stats.demolab.com?user=Kisadore&count_private=true&theme=dracula&border_radius=10" alt="streak stats" style="height: 200px; width: auto; margin-right: 20px;" />
-</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kisadore&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" style="height: 150px; width: auto;" />
   <img src="https://streak-stats.demolab.com?user=Kisadore&count_private=true&theme=dracula&border_radius=10" alt="streak stats" style="height: 150px; width: auto; margin-left: 20px;" />
 </p>
 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisadore&layout=compact&theme=dracula&border_radius=10" alt="top languages" style="height: 200px; width: auto;" /> -->
 
-  <!--
-  -->
 
 ## 🎧 Spotify Playing
 
@@ -102,11 +80,7 @@ jwt,nodemon,render,trello
 [![Euphoria](https://img.shields.io/badge/Euphoria-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q)
 [![Alt Music](https://img.shields.io/badge/Alt%20Music-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5rjAcasRoJ4pFZLb2YqQ0R)
 [![I ｎ ｍｙｆｅｅｌｉｎｇｓ 🙄](https://img.shields.io/badge/I%20ｎ%20ｍｙｆｅｅｌｉｎｇｓ%20🙄-%23FF6E96.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68dpEnHX39PWH89rOI6bLg)
-<!--
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&redirect=true)
--->
 <a href="https://open.spotify.com/user/kiahnaisadore" target="_blank">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false" width="425" height="auto" alt="Spotify Profile Widget">
 </a>
