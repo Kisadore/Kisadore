@@ -25,8 +25,8 @@
   
 🌟 This past summer, I got to learn more about full stack web develpment through the Codepath x Salesfore Futureforce Tech Launchpad Program
 
-🤭 **Fun fact** I'm a TV show enthusiast who loves card games, also I'm very open minded and love to try out new things!
 <!--
+🤭 **Fun fact** I'm a TV show enthusiast who loves card games, also I'm very open minded and love to try out new things!
 -->
 
  </div>
@@ -70,6 +70,7 @@
 </p>
 
 
+<!--
 
 ## 🎧 Spotify Playing
 
@@ -85,6 +86,6 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kiahnaisadore&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff6e96&bar_color_cover=false" width="425" height="auto" alt="Spotify Profile Widget">
 </a>
 
-
+-->
 </div>
  
