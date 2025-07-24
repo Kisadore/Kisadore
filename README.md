@@ -8,8 +8,8 @@
 -->
 
 
-<h3 align="center">👋🏾 Hi, Aspiring software engineer here :)</h3>
-<br/>
+<h3 align="center">👋🏾 Hi, Software Engineer here :)</h3>
+<!-- <br/> -->
 <div align="center">
 <!--
  
@@ -19,12 +19,17 @@
 <!--
 [here](https://github.com/Kisadore/Kisadore/issues)
 -->
-
+<!--
+💻 Currently interning at **Salesforce**, building end-to-end testing tools with **Java**, **Spring Boot**, and **Apex**  
+🌐 Built **PollPal**, a full-stack app for real-time election info, using the **PERN stack**  
+🚀 Explored full-stack dev and AI tools through the **CodePath x Salesforce Futureforce Tech Launchpad**  
+-->
+<!--
 💻 I recently developed a fullstack web application that allows users to view current elections in their area down to the local level, with additional features all with PERN stack (PostgreSQL, Express, React, Node.js) 
 
   
 🌟 This past summer, I got to learn more about full stack web develpment through the Codepath x Salesfore Futureforce Tech Launchpad Program
-
+-->
 <!--
 🤭 **Fun fact** I'm a TV show enthusiast who loves card games, also I'm very open minded and love to try out new things!
 -->
